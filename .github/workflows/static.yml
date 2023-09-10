@@ -35,10 +35,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Discord content
         run: |
-          cd .well-known
           var=${{ secrets.DISCORD_CONTENT }}
-          echo "$var" > "discord"
-          cd ..
+          echo "$var" > "./.well-known/discord"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
       - name: Deploy to GitHub Pages
