@@ -38,6 +38,7 @@ jobs:
           cd .well-known
           var=${{ secrets.DISCORD_CONTENT }}
           echo "$var" > "discord"
+          cd ..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
       - name: Deploy to GitHub Pages
@@ -46,4 +47,4 @@ jobs:
       - name: Remove old artifacts
         uses: c-hive/gha-remove-artifacts@v1
         with:
-          age: '60 seconds'
+          age: '0 seconds'
