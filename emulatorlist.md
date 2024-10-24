@@ -79,3 +79,28 @@ I mean, you can play Rhythm Tengoku on it... do I need say more?
 ---
 
 # Sony Home Consoles
+
+
+## PlayStation 1 - DuckStation (https://github.com/stenzek/duckstation)
+
+I'm not too experienced when it comes to PSX, but it seems this is the winner.
+Has everything you would probably need, and there isn't really much missing here.
+Though even with all that, Mednafen is still an option, and is probably your best bet for netplay. 
+
+## PlayStation 2 - PCSX2 (https://pcsx2.net)
+
+There are technically other options for this, like Play!, but this is really the only one worth using.  
+There isn't really much else to say, other than having a similar featureset to DuckStation.  
+At least you get to see this [cutie](https://x.com/fancyaltaccount/status/1830457721436397807) on your monitor screen.  
+
+## PlayStation 3 - RPCS3 (https://rpcs3.net)
+
+Similar to Cemu where it's basically the only actual option.  
+I don't do much with PS3, so I can't really add any more.  
+
+---
+
+# Microsoft Home Consoles
+
+
+## (Original) Xbox
