@@ -109,3 +109,15 @@ Seems to work with most games, and has a basic featureset.
 I wish I could say more, but I don't really play Xbox stuff.  
 
 ## Xbox 360 - Xenia (https://xenia.jp)
+
+Not worth repeating what I said above.  
+There's also a netplay/systemlink fork if you're interested for some reason.  
+https://github.com/AdrianCassar/xenia-canary/releases  
+
+---
+
+# Handheld Consoles  
+#### (Grouping all of this into one since there aren't that many)  
+
+
+## 
