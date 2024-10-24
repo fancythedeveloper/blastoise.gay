@@ -1,4 +1,4 @@
-Here's a probably way too comprehensive list of the emulators I personally recommend for most popular systems, mostly from experience
+Here's a probably way too comprehensive list of the emulators I personally recommend for most popular systems, mostly from experience 
 (Also all of these are assuming you actually have a decent computer, if you got a spoiled potato some of these might not run well for you)
 
 ---
