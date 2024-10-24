@@ -103,4 +103,9 @@ I don't do much with PS3, so I can't really add any more.
 # Microsoft Home Consoles
 
 
-## (Original) Xbox
+## (Original) Xbox - xemu (https://xemu.app)
+
+Seems to work with most games, and has a basic featureset.  
+I wish I could say more, but I don't really play Xbox stuff.  
+
+## Xbox 360 - Xenia (https://xenia.jp)
