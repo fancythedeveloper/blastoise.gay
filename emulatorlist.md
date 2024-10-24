@@ -132,6 +132,7 @@ Oh would you look at that, here it is.
 There's always the (not) good ol' VBA and VBA-M, but mGBA basically makes them irrelevant.  
 mGBA doesn't have any kind of netplay built-in yet, but you could easily just do it through Dolphin.  
 (The emulation wiki also says you can use Ryujinx with NSO too but I'm not sure how that works.)  
+Also, don't forget you can play Rhythm Te- ok I did this exact fucking joke earlier...  
 
 ## Nintendo DS - melonDS (https://melonds.kuribo64.net)
 
