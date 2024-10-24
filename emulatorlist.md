@@ -50,14 +50,14 @@ https://git.suyu.dev/suyu/suyu/releases
 # Sega Home Consoles
 
 
-Master System - Genesis Plus GX/Snepulator/ares/BlastEm(?) (https://snepulator.net/main.html)
+# Master System - Genesis Plus GX/Snepulator/ares/BlastEm(?) (https://snepulator.net/main.html)
 
 I'm honestly not too familiar when it comes to SMS/GG, mostly have been a Kega Fusion user when it comes to them, 
 but you should probably not be using that in the BIG 2024.
 Also worth mentioning that GPGX is only on PC as a libretro core, so unfortunately you can't get it standalone.
 Ares might be your best bet for that then, or BlastEm, but I'm not sure honestly
 
-Genesis/Mega Drive - BlastEm/Genesis Plus GX (https://www.retrodev.com/blastem/nightlies/)
+# Genesis/Mega Drive - BlastEm/Genesis Plus GX (https://www.retrodev.com/blastem/nightlies/)
 
 Sorta similar story to the Master System, except BlastEm is definitely worth using, don't bother with 0.6.2 though, use the nightly.
 Genesis Plus GX is also good too,
