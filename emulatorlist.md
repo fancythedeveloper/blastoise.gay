@@ -50,7 +50,7 @@ https://git.suyu.dev/suyu/suyu/releases
 # Sega Home Consoles
 
 
-## Master System - Genesis Plus GX/Snepulator/ares/BlastEm(?) (https://snepulator.net/main.html)
+## Master System (& GG) - Genesis Plus GX/Snepulator/ares/BlastEm(?) (https://snepulator.net/main.html)
 
 I'm honestly not too familiar when it comes to SMS/GG, mostly have been a Kega Fusion user when it comes to them,  
 but you should probably not be using that in the BIG 2024.  
@@ -61,7 +61,7 @@ Ares might be your best bet for that then, or BlastEm, but I'm not sure honestly
 
 Sorta similar story to the Master System, except BlastEm is definitely worth using, don't bother with 0.6.2 though, use the nightly.  
 Genesis Plus GX is also good too, as always.  
-(By the way, while not listed, if you care about the Sega CD/32X, you can check out either PicoDrive or ares.)  
+(By the way, while not listed, if you care about the Sega CD/32X, you can check out either [PicoDrive](https://github.com/notaz/picodrive) or ares.)  
 
 ## Saturn - Mednafen (https://mednafen.github.io)
 
@@ -120,4 +120,41 @@ https://github.com/AdrianCassar/xenia-canary/releases
 #### (Grouping all of this into one since there aren't that many)  
 
 
-## 
+## Game Boy (Color) - [bgb](http://bgb.bircd.org)/SameBoy/mGBA (https://sameboy.github.io)
+
+There's a lot of "not bad" choices when it comes to the GB, but these two are probably the best.  
+I still generally use mGBA though since it's good enough and I already use it for other things (foreshadowing).  
+Also even though these are the most accurate ones, they would probably still do fine on a potato lol.  
+
+## Game Boy Advance - mGBA (https://mgba.io)
+
+Oh would you look at that, here it is.  
+There's always the (not) good ol' VBA and VBA-M, but mGBA basically makes them irrelevant.  
+mGBA doesn't have any kind of netplay built-in yet, but you could easily just do it through Dolphin.  
+(The emulation wiki also says you can use Ryujinx with NSO too but I'm not sure how that works.)  
+
+## Nintendo DS - melonDS (https://melonds.kuribo64.net)
+
+Similar to mGBA for GBA, this basically makes everything else irrelevant, lol.  
+Still a bit barren feature-wise, but still good overall.  
+Doesn't have any direct netplay yet, but can play online if setup right.  
+
+## PlayStation Portable - PPSSPP (https://www.ppsspp.org)
+
+More similar to Cemu and PCSX2 where it's the only real option.   
+Got a lot of shit to be honest, and I bet even an iPod Nano could probably run this fine.  
+
+## Nintendo 3DS - Citra (https://github.com/PabloMK7/citra)
+
+Similar situation as Ryujinx, but there's a more clear solution.  
+If you're interested, you could check some of the other forks,  
+like [lime3DS](https://github.com/Lime3DS/Lime3DS), which kinda does its own thing, and [Mandarine](https://github.com/mandarine3ds/mandarine), which is more of a MMJ type of fork.  
+
+---
+
+# Thank you for reading!  
+I don't expect anyone to actually read all the way down, but if you did, thanks!  
+If you're wondering, this was originally made as a message for a Discord server, but it hit the Nitro character limit, so I decided to make this a page instead.  
+And if this page gets popular enough or whatever, I might consider adding a Misc. section for consoles not really relevant enough to get their own category.  
+Lastly, I might rewrite some of these sections at a later point, they're pretty bare right now, and of course I'll be updating this as stuff gets updated and released.  
+Anyways, good day!
