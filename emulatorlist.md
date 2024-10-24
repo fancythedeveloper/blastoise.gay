@@ -2,7 +2,7 @@ Here's a probably way too comprehensive list of the emulators I personally recom
 (Also all of these are assuming you actually have a decent computer, if you got a spoiled potato some of these might not run well for you)
 
 # Nintendo Home Consoles
----
+
 
 ## NES - Mesen (https://www.mesen.ca/)
 
@@ -43,11 +43,11 @@ https://github.com/ryujinx-mirror/ryujinx
 If you're looking for an Android solution, it seems like you're gonna have to go to Suyu for that.
 https://git.suyu.dev/suyu/suyu/releases
 
----
+
 
 
 # Sega Home Consoles
----
+
 
 Master System - Genesis Plus GX/Snepulator/ares/BlastEm(?) (https://snepulator.net/main.html)
 
